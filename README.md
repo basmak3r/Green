@@ -25,3 +25,6 @@ We developed a mechanism in which the user can register for waste pick up (agent
 Farmers and bio-gas plant owners have the privilege to search and find organic wastes for their needs.   
 
 The app also provides fact and news related to current world affairs related to waste management thus providing and increasing the user's knowledge on sustainable development.
+
+
+The video link :https://vimeo.com/user92783121/review/306237148/d5259f26ca
